@@ -11,6 +11,7 @@ Due to the variety of mods included in this pack you do need a very fresh versio
 
 ## Twitch Launcher
 
+idk something about custom profiles?
 
 ## MultiMC Launcher
 
