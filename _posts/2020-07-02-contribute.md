@@ -19,7 +19,7 @@ We are looking for creators and artist who would like to see their written, spok
 
 # Developers
 
-There is always a bit more to do to make the experience more engaging. We would love more help in a variety of areas.
+There is always a bit more to do to make the experience more engaging. We would love more help in a variety of areas. The things which we need to still do and have actually rememebred to write down are up on our Github [issues](https://github.com/tribesthatmaybe/modpack/issues) page.
 
 * Custom textures. There are plenty of things in Minecraft that we would like to reskin to be more appropriate for the sort of zone trip that we are going on. There is also a lot of possibility to add logoed clothing, custom armor, that kind of thing.
 * Custom models and items. There is a bunch of flexibiltiy here as well, if you are interested. By leveraging the [contenttweaker](https://www.curseforge.com/minecraft/mc-mods/contenttweaker) mod family it is very easy to expand what is available to participants.
