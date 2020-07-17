@@ -5,7 +5,9 @@ author: gadget
 categories: pages
 ---
 
-Tribes That May Be is currently in a pre-release state. You can find the latest development artifacts on our modpack [actions page](https://github.com/tribesthatmaybe/modpack/actions?query=workflow%3Amake-modpack). For single player usage, you can probably download the most recent artifact that has been succesfully build. Make sure the build you are selecting has a green checkbox next to it although please note that is no guarantee the version is completely bug free.
+Tribes That May Be is currently in a pre-release state. You can find the latest quasi stable releases on [curseforge](https://www.curseforge.com/minecraft/modpacks/tribes-that-may-be). Most users will want to use this. These dev releases should always be the same version as the dev server while development snapshots may not be.
+
+You can find the freshest development, if not stable, artifacts on our modpack [actions page](https://github.com/tribesthatmaybe/modpack/actions?query=workflow%3Amake-modpack). For single player usage, you can probably download the most recent artifact that has been succesfully build. Make sure the build you are selecting has a green checkbox next to it although please note that is no guarantee the version is completely bug free.
 
 Due to the variety of mods included in this pack you do need a very fresh version of Java installed. This involves going to the sketchy-looking-but-totally-legit [java dot com](https://www.java.com/) website and installing the latest for your platform.
 
@@ -14,6 +16,10 @@ If you find anything that either doesn't work, or does not work as expected, ple
 # Client Installation
 
 The Tribes That May Be crew would not recommend trying to use this modpack without a launcher to a friend. The Twitch Launcher is more popular and generally easier to use than MultiMC. Developers tend to prefer MultiMC as it makes juggling packs much easier. It does not support easy upgrades like Twitch does. Given that the modpack is not (yet) up on [Curseforge](https://www.curseforge.com/), either launcher is probably fine. Note that this is a bit of a beefy modpack and we recommend a minimum of 6Gb of memory being allocated.
+
+## Minecraft Itself
+
+The base Minecraft game is not free. You need to purchase and install the [Java Edition](https://www.minecraft.net/en-us/store/minecraft-java-edition/) prior to getting into the Twitch or MultiMC launchers.
 
 ## Twitch Launcher
 
