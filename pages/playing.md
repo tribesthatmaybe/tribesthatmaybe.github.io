@@ -42,10 +42,3 @@ The Tribes That May Be crew runs a development server. It is currently open to a
 You can download and run a server on your own if you desire. Make sure to use the same build for both client and server. You must also make sure that commandblocks are enabled.
 
 More guidance on running your own server will be provided once we are up on Curseforge.
-
-# Notable Versions
-
-| Version | Use |
-| ------- | --- |
-| [`0.0.1-07092f3c`](https://github.com/tribesthatmaybe/modpack/actions/runs/154559356) | dev server version |
-| [`0.0.1-099b4a21`](https://github.com/tribesthatmaybe/modpack/actions/runs/159692991) | latest "stable" dev release |
