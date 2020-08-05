@@ -11,7 +11,7 @@ You can find the freshest development, if not stable, artifacts on our modpack [
 
 Due to the variety of mods included in this pack you do need a very fresh version of Java installed. This involves going to the sketchy-looking-but-totally-legit [java dot com](https://www.java.com/) website and installing the latest for your platform.
 
-If you find anything that either doesn't work, or does not work as expected, please open an [issue on Github](https://github.com/tribesthatmaybe/modpack/issues).
+If you find anything that either doesn't work, or does not work as expected, please open an [issue on Github](https://github.com/tribesthatmaybe/modpack/issues). You can also pop into the `#general` channel in our [discord](https://discord.gg/f8Y9x8m) server.
 
 # Client Installation
 
