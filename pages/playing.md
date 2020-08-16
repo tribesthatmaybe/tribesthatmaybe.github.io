@@ -5,40 +5,43 @@ author: gadget
 categories: pages
 ---
 
-Tribes That May Be is currently in a pre-release state. You can find the latest quasi stable releases on [curseforge](https://www.curseforge.com/minecraft/modpacks/tribes-that-may-be). Most users will want to use this. These dev releases should always be the same version as the dev server while development snapshots may not be.
+# Participating
 
-You can find the freshest development, if not stable, artifacts on our modpack [actions page](https://github.com/tribesthatmaybe/modpack/actions?query=workflow%3Amake-modpack). For single player usage, you can probably download the most recent artifact that has been succesfully build. Make sure the build you are selecting has a green checkbox next to it although please note that is no guarantee the version is completely bug free.
+Sometimes we need to spend a inordinate amount of effort in order to immerse ourselves into the experience we would like. Unlike the Black Rock Desert, as you explore Tribes That May Be, you will remain physically dust free. The chemical burns you may end up with are confined within the sandbox virtual world that we have created out of modded Minecraft. There are several steps involved to get up and running, and a relatively beefy computer will be needed. We've tried to tune the early gameplay experience in a way that groups of people can rapidly build up to a place of fully-automated, luxury, queer block socialism, and then use this to build lo-fi art and hang out with a rockin' soundtrack provided by our extended community.
 
-Due to the variety of mods included in this pack you do need a very fresh version of Java installed. This involves going to the sketchy-looking-but-totally-legit [java dot com](https://www.java.com/) website and installing the latest for your platform.
+And maybe y'all will learn a thing or two about resilient communities as you explore the Tribes That May Be multiverses.
 
-If you find anything that either doesn't work, or does not work as expected, please open an [issue on Github](https://github.com/tribesthatmaybe/modpack/issues). You can also pop into the `#general` channel in our [discord](https://discord.gg/f8Y9x8m) server.
+If you find anything that either doesn't work, or does not work as expected, the easiest thing is do hop into our [discord](https://discord.gg/f8Y9x8m) server and let us know. If you feel some immediacy seize you and are looking at being more involved, then please head over to the [list of things](https://github.com/tribesthatmaybe/modpack/issues) we are tracking on our [GibHub](https://github.com/tribesthatmaybe/modpack/) project and [file an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) describing what happened.
 
 # Client Installation
 
-The Tribes That May Be crew would not recommend trying to use this modpack without a launcher to a friend. The Twitch Launcher is more popular and generally easier to use than MultiMC. Developers tend to prefer MultiMC as it makes juggling packs much easier. It does not support easy upgrades like Twitch does. Given that the modpack is not (yet) up on [Curseforge](https://www.curseforge.com/), either launcher is probably fine. Note that this is a bit of a beefy modpack and we recommend a minimum of 6Gb of memory being allocated.
+The Tribes That May Be crew would not recommend trying to use this modpack without a launcher to a friend. The [Twitch Minecraft Launcher](https://help.twitch.tv/s/article/How-to-Play-Minecraft-with-Twitch-App) is more popular and generally easier to use than the open source [MultiMC](https://multimc.org/). Developers tend to prefer MultiMC as it makes juggling packs much easier. It does not support easy upgrades like Twitch does. Note that this is a bit of a beefy modpack and we recommend a minimum of 6Gb of memory being allocated.
 
 ## Minecraft Itself
 
 The base Minecraft game is not free. You need to purchase and install the [Java Edition](https://www.minecraft.net/en-us/store/minecraft-java-edition/) prior to getting into the Twitch or MultiMC launchers.
 
+## The Modpack Itself
+
+Tribes That May Be is currently in a pre-release state. You can find the latest alphas on [curseforge](https://www.curseforge.com/minecraft/modpacks/tribes-that-may-be). Most users will want to use this. These releases are always going to be the same version of our public development server.
+
+You can find the freshest builds artifacts on our modpack [actions page](https://github.com/tribesthatmaybe/modpack/actions?query=workflow%3Amake-modpack). For single player usage, you can probably download the most recent artifact that has been succesfully build. Make sure the build you are selecting has a green checkbox next to it although please note that is no guarantee the version is completely bug free.
+
 ## Twitch Launcher
 
-Download and install the [Twitch App](https://www.twitch.tv/downloads). You will need to have a Twitch account to use this app. Once it has loaded, click on the `Mods` tab and select `Minecraft`. It may take a few moments to load. Click through and then select `Create Custom Profile`. Click on the `import` button, and select the zip file you downloaded earlier. You will probably need to bump up the memory used in the [Minecraft settings[(https://help.twitch.tv/s/article/How-to-Play-Minecraft-with-Twitch-App#Settings).
+You will need to already [sign up](https://www.twitch.tv/signup) for a Twitch account in order to use the launcher. Twitch currently has a [thorough guide](https://help.twitch.tv/s/article/How-to-Play-Minecraft-with-Twitch-App) on how to get started with their launcher for playing modded Minecraft. Make sure to bump up the memory used in the [Minecraft settings](https://help.twitch.tv/s/article/How-to-Play-Minecraft-with-Twitch-App#Settings). We recommend a minimum of 6Gb.
+
+With Alpha buids you will need to manually install the modpack. .With the Twitch launcher running, click on the Mods tab and select Minecraft. It may take a few moments to load. Click through and then select Create Custom Profile. Click on the import button, and select the zip file you downloaded earlier.
 
 ## MultiMC Launcher
 
-The [MultiMC](https://multimc.org/) launcher is much lighter weight than the more common Twitch launcher. It works on Windows, Mac, and Linux. After you have downloaded the MultiMC launcher and started it up, click on the `Add Instance` button in the upper right. From there, select `Import from zip` from the list on the left. Unfortunately you cannot just paste the artifact URL in the text field even though it implies you can. Click `Browse` and select the zip file of the `ttmb-client` artifact you downloaded previously.
+The [MultiMC](https://multimc.org/) launcher is much lighter weight than the more common Twitch launcher. It works on Windows, Mac, and Linux. After you have downloaded the MultiMC launcher from their [home page](https://multimc.org/)and have it running, click on the `Settings` button in the upper middle of the screen. Select `Java` from the list of items on the left side of the screen. From here make sure to set your memory to a minimum of 6Gb (6144Mb). If you get warnings about being unable to find Java upon running the modpack, come back to this screen and use it to set the path to where Java is actually found. When you are done here click `Close`.
+
+Click the `Add Instance` button in the upper right. From there, select `Import from zip` from the list on the left. Unfortunately you cannot just paste the artifact URL in the text field even though it implies you can. Click `Browse` and select the zip file of the `ttmb-client` artifact you downloaded previously.
 
 Things will happen for a bit as the modpack dependencies are downloaded. Once that has completed, you can select the new icon and click `Launch`.
 
-# Servers
+# Dev Server
 
-## Dev Server
+The Tribes That May Be crew runs a development server. It is currently open to anyone with a registered Minecraft account. You can connect to it at `ttmb-dev.spmc.co`. Nothing here should be considered more than temporal, we do a lot of explosives based testing. We make use of [stickypiston](https://stickypiston.co/) for hosting and they are pretty great. This server should always be up to date with the alpha releases on Curseforge. I
 
-The Tribes That May Be crew runs a development server. It is currently open to anyone with a registered Minecraft account. You can connect to it at `ttmb-dev.spmc.co`. Nothing here should be considered more than temporal, we do a lot of explosives based testing. We make use of [stickypiston](https://stickypiston.co/) for hosting and they are pretty great.
-
-## Your Own Server
-
-You can download and run a server on your own if you desire. Make sure to use the same build for both client and server. You must also make sure that commandblocks are enabled.
-
-More guidance on running your own server will be provided once we are up on Curseforge.
