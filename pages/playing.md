@@ -43,5 +43,5 @@ Things will happen for a bit as the modpack dependencies are downloaded. Once th
 
 # Dev Server
 
-The Tribes That May Be crew runs a development server. It is currently open to anyone with a registered Minecraft account. You can connect to it at `ttmb-dev.spmc.co`. Nothing here should be considered more than temporal, we do a lot of explosives based testing. We make use of [stickypiston](https://stickypiston.co/) for hosting and they are pretty great. This server should always be up to date with the alpha releases on Curseforge. I
+The Tribes That May Be crew runs a development server. It is currently open to anyone with a registered Minecraft account. You can connect to it at `ttmbdev.spmc.co`. Nothing here should be considered more than temporal, we do a lot of explosives based testing. We make use of [stickypiston](https://stickypiston.co/) for hosting and they are pretty great. This server should always be up to date with the alpha releases on Curseforge. I
 
