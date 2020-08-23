@@ -3,7 +3,7 @@ layout: page
 title: No Spectators
 author: gadget
 categories: pages
-image: common-shop.png
+image: blockholebar.png
 ---
 
 Are you interested in helping grow the Tribes That May Be experience? There are plenty of ways you can help! If any of these things seem interested to you, hop into the `#general` channel on our [discord server](https://discord.gg/f8Y9x8m) or contact us using one of the methods at the bottom of this page!
@@ -18,6 +18,8 @@ We are looking for creators and artist who would like to see their written, spok
 * New structures and art pieces. We make use of the [recurrent complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex) mod to have player discoverable content randomly show up throughout their adventures. We are able to support the majority of the mods included in Tribes That May Be. If you love building in Minecraft then this is something we can support on our development server.
 
 # World Builders
+
+<span class="featured-image">![tumbleweed farmer]({{ site.github_url }}/assets/img/tumbleweed_farmer.jfif)</span>
 
 Between discoverable and easy to create lore, a [questing system](https://www.curseforge.com/minecraft/mc-mods/better-questing), and interactive NPCs the narrative describing the Tribes That May Be multiverse has a lot of ways in which it may be expressed. We make ues of the [custom npcs](https://www.curseforge.com/minecraft/mc-mods/custom-npcs) mod which gives us a pile of flexibility in terms of being able to engage with entities in the multiverse. These NPC's can carry limited conversations, act as traders, and a few other "careers". They are also integrated with both the questing and lore mods.
 
