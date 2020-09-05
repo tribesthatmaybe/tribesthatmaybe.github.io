@@ -5,7 +5,7 @@ author: gadget
 categories: pages
 ---
 
-<span class="featured-image">![desert octopus art piece]({{ site.github_url }}/assets/img/desert-octopus.jpg)</span>
+<span class="featured-image">![desert octopus art piece]({{ site.github_url }}/assets/img/night_dlot.png)</span>
 
 # Participating
 
@@ -47,7 +47,14 @@ Click the `Add Instance` button in the upper right. From there, select `Import f
 
 Things will happen for a bit as the modpack dependencies are downloaded. Once that has completed, you can select the new icon and click `Launch`.
 
+# Use the Quest Book
+
+<span class="featured-image">![starting quest line]({{ site.github_url }}/assets/img/starting_questline.png)</span>
+
+Above all else, the quest book is your friend. It will teach you how to not only navigate the unfortunately overly complicated Minecraf interface itself but also guide you on your journey throughout the Block Rock Desert. If you ever feel like you are not sure how to use a thing, or need a rough idea of where to go next, consult your quest book. There are several quest lines to choose from in order to focus on one area over another. Ideally you will have other people to collaborate with as you explore.
+
 # Dev Server
 
-The Tribes That May Be crew runs a development server. It is currently open to anyone with a registered Minecraft account. You can connect to it at `ttmbdev.spmc.co`. Nothing here should be considered more than temporal, we do a lot of explosives based testing. We make use of [stickypiston](https://stickypiston.co/) for hosting and they are pretty great. This server should always be up to date with the alpha releases on Curseforge. I
+<span class="featured-image">![dusty container yard]({{ site.github_url }}/assets/img/dust_container_yard.png)</span>
 
+The Tribes That May Be crew runs a development server. It is currently open to anyone with a registered Minecraft account. You can connect to it by creating a new server pointing at `ttmbdev.spmc.co` or just clicking `Direct Connect` and using the default. Nothing here should be considered more than temporal, we do a lot of explosives based testing. We make use of [stickypiston](https://stickypiston.co/) for hosting and they are pretty great. This server should always be up to date with the alpha releases on Curseforge.
