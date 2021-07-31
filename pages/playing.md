@@ -51,7 +51,7 @@ Things will happen for a bit as the modpack dependencies are downloaded. Once th
 
 <span class="featured-image">![starting quest line]({{ site.github_url }}/assets/img/starting_questline.png)</span>
 
-Above all else, the quest book is your friend. It will teach you how to not only navigate the unfortunately overly complicated Minecraf interface itself but also guide you on your journey throughout the Block Rock Desert. If you ever feel like you are not sure how to use a thing, or need a rough idea of where to go next, consult your quest book. There are several quest lines to choose from in order to focus on one area over another. Ideally you will have other people to collaborate with as you explore.
+Above all else, the quest book is your friend. It will teach you how to not only navigate the unfortunately overly complicated Minecraft interface itself but also guide you on your journey throughout the Block Rock Desert. If you ever feel like you are not sure how to use a thing, or need a rough idea of where to go next, consult your quest book. There are several quest lines to choose from in order to focus on one area over another. Ideally you will have other people to collaborate with as you explore.
 
 # Dev Server
 
